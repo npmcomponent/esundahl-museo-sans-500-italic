@@ -1,0 +1,13 @@
+{
+  "name": "museo-sans-500-italic",
+  "repo": "esundahl/museo-sans-500-italic",
+  "description": "Museo Sans 500 Italic Font Component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "museo-sans-500-italic.css"
+  ]
+}
