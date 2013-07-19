@@ -9,5 +9,11 @@
   "license": "MIT",
   "styles": [
     "museo-sans-500-italic.css"
+  ],
+  "fonts": [
+    "fonts/museosans_500_italic-webfont.eot",
+    "fonts/museosans_500_italic-webfont.svg",
+    "fonts/museosans_500_italic-webfont.ttf",
+    "fonts/museosans_500_italic-webfont.woff"
   ]
 }
